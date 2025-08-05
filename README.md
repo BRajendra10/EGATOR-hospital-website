@@ -34,7 +34,7 @@ Welcome to the Hospital Website, Built with HTML, SCSS, and JavaScript, this web
 #### output
 ![View Project](https://github.com/BRajendra10/SASS/blob/92c8c44b1279f69368a931865a626f2f25bf3197/Hospital%20website%20-%20EGATOR/assets/Egator%20recording.gif)
 
-[Live Website](https://medicrest.netlify.app/)
+[Live Website](https://medicreast.netlify.app/)
 
 ### ✍️ Author
 - **Rajendra Behera**
